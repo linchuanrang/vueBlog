@@ -1,0 +1,58 @@
+[
+    {
+        "titles": "さくら荘その",
+        "conter": "首页"
+    },
+    {
+        "titles": "让い",
+        "conter": "归档",
+        "children": [
+            {
+                "conter":"</>技术"
+            }
+        ]
+    },
+    {
+        "conter":"清单",
+        "children": [
+            {
+                "conter":"书单"
+            }, 
+            {
+                "conter":"番组"
+            },
+            {
+                "conter":"歌单"
+            }
+        ]
+    },
+    {
+        "conter":"留言板"
+    }, 
+    {
+        "conter":"友人帐"
+    },
+     {
+        "conter":"赞赏"
+    },
+     {
+        "conter":"关于",
+        "children":[
+            {
+                "conter":"我？"
+            },
+            {
+                "conter":"主题"
+            },
+            {
+                "conter":"ab"
+            }
+        ]
+    },
+    {
+        "conter":"客服端"
+    },
+    {
+        "conter":"RSS"
+    }
+]
